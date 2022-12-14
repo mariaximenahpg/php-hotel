@@ -52,7 +52,7 @@
     <title>php hotel</title>
 </head>
 <body>
-    <table>
+    <table class="table">
         <thead>
             <tr>
                 <th>Nome</th>
